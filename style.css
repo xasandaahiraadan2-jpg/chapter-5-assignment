@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    -color: rgb(198, 194, 189);background
+}
+
+
+.nav img {
+    width: 80px;
+    margin: 10px;
+}
+
+#gradient {
+    background: linear-gradient(to right, blue, lightblue);
+}
+
+h1, p {
+    color: darkblue;
+}
+
+.nav a img {
+    border: 2px solid black;
+}
+
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+}
+footer{
+    text-align: center;
+    background-color: blueviolet;
+}
